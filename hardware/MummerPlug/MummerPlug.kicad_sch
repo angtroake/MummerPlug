@@ -198,7 +198,7 @@
       (reference "SW?") (unit 1) (value "SW_RESET") (footprint "")
     )
     (path "/ff93a284-a20c-4675-aaec-8573331247f7/2238a38e-6ebe-451f-b6ee-ebf805b08ec3"
-      (reference "U?") (unit 1) (value "ESP8684-MINI") (footprint "")
+      (reference "U?") (unit 1) (value "ESP8684-MINI") (footprint "mummerplug:ESP8684-MINI-1")
     )
   )
 )

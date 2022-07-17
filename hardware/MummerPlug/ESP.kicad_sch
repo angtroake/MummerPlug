@@ -841,7 +841,7 @@
     (uuid 2238a38e-6ebe-451f-b6ee-ebf805b08ec3)
     (property "Reference" "U?" (id 0) (at 158.75 58.1912 0))
     (property "Value" "ESP8684-MINI" (id 1) (at 158.75 60.7312 0))
-    (property "Footprint" "" (id 2) (at 121.285 92.71 0)
+    (property "Footprint" "mummerplug:ESP8684-MINI-1" (id 2) (at 121.285 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.mouser.ca/pdfDocs/ESP8684-MINI.pdf" (id 3) (at 121.285 92.71 0)
