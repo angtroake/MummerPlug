@@ -131,16 +131,28 @@
     (path "/ff93a284-a20c-4675-aaec-8573331247f7/45569c97-48b5-4f24-82dd-80b1000b280d"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/7691886c-5c7a-4456-a796-16dd55b84c70/4a6ba8c6-7f2d-4708-be34-67e78161365b"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/7691886c-5c7a-4456-a796-16dd55b84c70/590e3e7d-9174-4a55-8da4-cad2ed4fb51a"
       (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
     )
+    (path "/7691886c-5c7a-4456-a796-16dd55b84c70/5d7d4ee0-f34d-4437-82d7-3594f57d3732"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/ff93a284-a20c-4675-aaec-8573331247f7/719bc6c4-0261-4640-9202-2eb6d1b9412b"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/7691886c-5c7a-4456-a796-16dd55b84c70/7a4b7a2c-31b0-4a51-98ae-c6d443a04433"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/ff93a284-a20c-4675-aaec-8573331247f7/9bc231ae-ff29-402f-8ee0-c2ec2b80b878"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/ff93a284-a20c-4675-aaec-8573331247f7/af00f0b9-c3e2-470a-97a6-aba0ed78e56f"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/7691886c-5c7a-4456-a796-16dd55b84c70/bd1d4f59-4f6c-4219-9e15-bc7bd0ee45bc"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/7691886c-5c7a-4456-a796-16dd55b84c70/ccef7f73-6cb1-4814-a2c2-2a6e47347252"
@@ -199,6 +211,12 @@
     )
     (path "/ff93a284-a20c-4675-aaec-8573331247f7/2238a38e-6ebe-451f-b6ee-ebf805b08ec3"
       (reference "U?") (unit 1) (value "ESP8684-MINI") (footprint "mummerplug:ESP8684-MINI-1")
+    )
+    (path "/7691886c-5c7a-4456-a796-16dd55b84c70/9ffd8785-0e2c-41e2-bcdd-f0a902366045"
+      (reference "U?") (unit 1) (value "TMCS1107A2BQDT") (footprint "mummerplug:TMCS1107A2BQDT")
+    )
+    (path "/7691886c-5c7a-4456-a796-16dd55b84c70/ee1b5d63-55a3-4a36-834b-17f7b6894179"
+      (reference "U?") (unit 1) (value "TMCS1107A2BQDT") (footprint "mummerplug:TMCS1107A2BQDT")
     )
   )
 )

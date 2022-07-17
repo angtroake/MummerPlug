@@ -240,7 +240,7 @@
     (property "Value" "TMCS1107A2BQDT" (id 1) (at 0 -7.62 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 2.54 -15.24 0)
+    (property "Footprint" "mummerplug:TMCS1107A2BQDT" (id 2) (at 2.54 -15.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tmcs1107.pdf" (id 3) (at 2.54 -15.24 0)
